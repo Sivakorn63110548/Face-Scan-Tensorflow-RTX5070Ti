@@ -15,7 +15,7 @@ This project demonstrates how to run **TensorFlow 2.15.0 on GPU** (compatible wi
 - **cuDNN:** 8.9
 - **Docker Image:** `tensorflow/tensorflow:2.15.0-gpu`
 - **python 3.9 ++
-- **Host OS:** Ubuntu Server 24.04 or equivalent
+- **Host OS:** Ubuntu Server 24.04lts or equivalent
 ![image](https://github.com/user-attachments/assets/199b1a52-5e36-4c39-8586-64e1de011a46)
 
 ---
